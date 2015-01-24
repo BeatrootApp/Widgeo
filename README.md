@@ -6,7 +6,7 @@ Widgeo provides easy access to the worlds territories and their continents.
 
 Include Widgeo in your Gemfile, `gem "widgeo", require: true` and run `bundle install`.
 
-#### #all
+#### .all
 
 Provides a list of all items.
 
@@ -18,7 +18,15 @@ and all territories:
 
 `territories = Widgeo::Territory.all`
 
-#### #find_by
+#### .filter_by
+
+Allows for filtering a list of items.
+
+For a filtered list of territories in the EU:
+
+`territories = Widgeo::Territories.filter_by continent_alpha_2: "EU"`
+
+#### .find_by
 
 Provides a single item matching a specified property and value.
 

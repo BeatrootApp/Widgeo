@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version       = Widgeo::VERSION
   spec.authors       = ["Chris G"]
   spec.email         = ["chris@abstraktion.co.uk"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Provides easy access to the worlds territories and their continents."
+  spec.description   = "Listing and filtering of continents and territories. Includes short names, long names and alpha codes, following the ISO 3166 standard."
+  spec.homepage      = "https://github.com/BeatrootApp/Widgeo"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
 
-  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "rspec", "~> 3.1"
 
 end

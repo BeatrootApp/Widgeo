@@ -5,6 +5,7 @@ describe Widgeo::Territory do
   TERRITORY_COUNT = 254
   INVALID_TERRITORY = { bad_field: "BAD FIELD" }
   TERRITORY_ALPHA = "GB"
+  EU_TERRITORY_COUNT = 50
   PARENT_CONTINENT_ALPHA = "EU"
 
   VALID_TERRITORY = {
@@ -43,6 +44,18 @@ describe Widgeo::Territory do
 
     it { expect(territory).to be_kind_of Widgeo::Territory }
     it { expect(territory.alpha_2).to eq TERRITORY_ALPHA }
+
+  end
+
+  describe ".filter_by" do
+
+    subject(:territories) {
+      Widgeo::Territory.filter_by continent_alpha_2: PARENT_CONTINENT_ALPHA
+    }
+
+    it { expect(territories).to be_kind_of Array }
+    it { expect(territories.size).to be EU_TERRITORY_COUNT }
+    it { expect(territories.first).to be_kind_of Widgeo::Territory }
 
   end
 

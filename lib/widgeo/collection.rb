@@ -21,6 +21,24 @@ module Widgeo
 
     end
 
+    # Does the item match the requested attributes?
+    def matches? item, attributes
+
+      attributes.map { |attribute, value|
+
+        item.send(attribute) == value
+
+      }.flatten == [true]
+
+    end
+
+    # Filter the items by a combination of values
+    def filter_by attributes
+
+      all.select { |item| matches? item, attributes }
+
+    end
+
     # Find an item by an attribute
     def find_by attribute, value
 
