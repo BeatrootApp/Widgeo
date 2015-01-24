@@ -1,0 +1,21 @@
+---
+- name: Africa
+  alpha_2: AF
+
+- name: Antarctica
+  alpha_2: AN
+
+- name: Asia
+  alpha_2: AS
+
+- name: Europe
+  alpha_2: EU
+
+- name: North America
+  alpha_2: NA
+
+- name: Oceania
+  alpha_2: OC
+
+- name: South America
+  alpha_2: SA

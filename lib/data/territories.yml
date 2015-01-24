@@ -1,0 +1,1017 @@
+---
+- name: Algeria
+  long_name: People's Democratic Republic of Algeria
+  alpha_2: DZ
+  continent_alpha_2: AF
+- name: Angola
+  long_name: Republic of Angola
+  alpha_2: AO
+  continent_alpha_2: AF
+- name: Benin
+  long_name: Republic of Benin
+  alpha_2: BJ
+  continent_alpha_2: AF
+- name: Botswana
+  long_name: Republic of Botswana
+  alpha_2: BW
+  continent_alpha_2: AF
+- name: Burkina Faso
+  long_name: Burkina Faso
+  alpha_2: BF
+  continent_alpha_2: AF
+- name: Burundi
+  long_name: Republic of Burundi
+  alpha_2: BI
+  continent_alpha_2: AF
+- name: Cameroon
+  long_name: Republic of Cameroon
+  alpha_2: CM
+  continent_alpha_2: AF
+- name: Cape Verde
+  long_name: Republic of Cape Verde
+  alpha_2: CV
+  continent_alpha_2: AF
+- name: Central African Republic
+  long_name: Central African Republic
+  alpha_2: CF
+  continent_alpha_2: AF
+- name: Chad
+  long_name: Republic of Chad
+  alpha_2: TD
+  continent_alpha_2: AF
+- name: Comoros
+  long_name: Union of the Comoros
+  alpha_2: KM
+  continent_alpha_2: AF
+- name: Congo
+  long_name: Democratic Republic of the Congo
+  alpha_2: CD
+  continent_alpha_2: AF
+- name: Congo
+  long_name: Republic of the Congo
+  alpha_2: CG
+  continent_alpha_2: AF
+- name: Cote d'Ivoire
+  long_name: Republic of Cote d'Ivoire
+  alpha_2: CI
+  continent_alpha_2: AF
+- name: Djibouti
+  long_name: Republic of Djibouti
+  alpha_2: DJ
+  continent_alpha_2: AF
+- name: Egypt
+  long_name: Arab Republic of Egypt
+  alpha_2: EG
+  continent_alpha_2: AF
+- name: Equatorial Guinea
+  long_name: Republic of Equatorial Guinea
+  alpha_2: GQ
+  continent_alpha_2: AF
+- name: Eritrea
+  long_name: State of Eritrea
+  alpha_2: ER
+  continent_alpha_2: AF
+- name: Ethiopia
+  long_name: Federal Democratic Republic of Ethiopia
+  alpha_2: ET
+  continent_alpha_2: AF
+- name: Gabon
+  long_name: Gabonese Republic Gabon
+  alpha_2: GA
+  continent_alpha_2: AF
+- name: Gambia
+  long_name: Republic of the Gambia
+  alpha_2: GM
+  continent_alpha_2: AF
+- name: Ghana
+  long_name: Republic of Ghana
+  alpha_2: GH
+  continent_alpha_2: AF
+- name: Guinea
+  long_name: Republic of Guinea
+  alpha_2: GN
+  continent_alpha_2: AF
+- name: Guinea-Bissau
+  long_name: Republic of Guinea-Bissau
+  alpha_2: GW
+  continent_alpha_2: AF
+- name: Kenya
+  long_name: Republic of Kenya
+  alpha_2: KE
+  continent_alpha_2: AF
+- name: Lesotho
+  long_name: Kingdom of Lesotho
+  alpha_2: LS
+  continent_alpha_2: AF
+- name: Liberia
+  long_name: Republic of Liberia
+  alpha_2: LR
+  continent_alpha_2: AF
+- name: Libyan Arab Jamahiriya
+  long_name: Libyan Arab Jamahiriya
+  alpha_2: LY
+  continent_alpha_2: AF
+- name: Madagascar
+  long_name: Republic of Madagascar
+  alpha_2: MG
+  continent_alpha_2: AF
+- name: Malawi
+  long_name: Republic of Malawi
+  alpha_2: MW
+  continent_alpha_2: AF
+- name: Mali
+  long_name: Republic of Mali
+  alpha_2: ML
+  continent_alpha_2: AF
+- name: Mauritania
+  long_name: Islamic Republic of Mauritania
+  alpha_2: MR
+  continent_alpha_2: AF
+- name: Mauritius
+  long_name: Republic of Mauritius
+  alpha_2: MU
+  continent_alpha_2: AF
+- name: Mayotte
+  long_name: Mayotte
+  alpha_2: YT
+  continent_alpha_2: AF
+- name: Morocco
+  long_name: Kingdom of Morocco
+  alpha_2: MA
+  continent_alpha_2: AF
+- name: Mozambique
+  long_name: Republic of Mozambique
+  alpha_2: MZ
+  continent_alpha_2: AF
+- name: Namibia
+  long_name: Republic of Namibia
+  alpha_2: NA
+  continent_alpha_2: AF
+- name: Niger
+  long_name: Republic of Niger
+  alpha_2: NE
+  continent_alpha_2: AF
+- name: Nigeria
+  long_name: Federal Republic of Nigeria
+  alpha_2: NG
+  continent_alpha_2: AF
+- name: Reunion
+  long_name: Reunion
+  alpha_2: RE
+  continent_alpha_2: AF
+- name: Rwanda
+  long_name: Republic of Rwanda
+  alpha_2: RW
+  continent_alpha_2: AF
+- name: Saint Helena
+  long_name: Saint Helena
+  alpha_2: SH
+  continent_alpha_2: AF
+- name: Sao Tome and Principe
+  long_name: Democratic Republic of Sao Tome and Principe
+  alpha_2: ST
+  continent_alpha_2: AF
+- name: Senegal
+  long_name: Republic of Senegal
+  alpha_2: SN
+  continent_alpha_2: AF
+- name: Seychelles
+  long_name: Republic of Seychelles
+  alpha_2: SC
+  continent_alpha_2: AF
+- name: Sierra Leone
+  long_name: Republic of Sierra Leone
+  alpha_2: SL
+  continent_alpha_2: AF
+- name: Somalia
+  long_name: Somali Republic Somalia
+  alpha_2: SO
+  continent_alpha_2: AF
+- name: South Africa
+  long_name: Republic of South Africa
+  alpha_2: ZA
+  continent_alpha_2: AF
+- name: South Sudan
+  long_name: South Sudan
+  alpha_2: SS
+  continent_alpha_2: AF
+- name: Sudan
+  long_name: Republic of Sudan
+  alpha_2: SD
+  continent_alpha_2: AF
+- name: Swaziland
+  long_name: Kingdom of Swaziland
+  alpha_2: SZ
+  continent_alpha_2: AF
+- name: Tanzania
+  long_name: United Republic of Tanzania
+  alpha_2: TZ
+  continent_alpha_2: AF
+- name: Togo
+  long_name: Togolese Republic Togo
+  alpha_2: TG
+  continent_alpha_2: AF
+- name: Tunisia
+  long_name: Tunisian Republic Tunisia
+  alpha_2: TN
+  continent_alpha_2: AF
+- name: Uganda
+  long_name: Republic of Uganda
+  alpha_2: UG
+  continent_alpha_2: AF
+- name: Western Sahara
+  long_name: Western Sahara
+  alpha_2: EH
+  continent_alpha_2: AF
+- name: Zambia
+  long_name: Republic of Zambia
+  alpha_2: ZM
+  continent_alpha_2: AF
+- name: Zimbabwe
+  long_name: Republic of Zimbabwe
+  alpha_2: ZW
+  continent_alpha_2: AF
+- name: Antarctica (the territory South of 60 deg S)
+  long_name: Antarctica (the territory South of 60 deg S)
+  alpha_2: AQ
+  continent_alpha_2: AN
+- name: Bouvet Island (Bouvetoya)
+  long_name: Bouvet Island (Bouvetoya)
+  alpha_2: BV
+  continent_alpha_2: AN
+- name: French Southern Territories
+  long_name: French Southern Territories
+  alpha_2: TF
+  continent_alpha_2: AN
+- name: Heard Island and McDonald Islands
+  long_name: Heard Island and McDonald Islands
+  alpha_2: HM
+  continent_alpha_2: AN
+- name: South Georgia and the South Sandwich Islands
+  long_name: South Georgia and the South Sandwich Islands
+  alpha_2: GS
+  continent_alpha_2: AN
+- name: Afghanistan
+  long_name: Islamic Republic of Afghanistan
+  alpha_2: AF
+  continent_alpha_2: AS
+- name: Armenia
+  long_name: Republic of Armenia
+  alpha_2: AM
+  continent_alpha_2: AS
+- name: Azerbaijan
+  long_name: Republic of Azerbaijan
+  alpha_2: AZ
+  continent_alpha_2: AS
+- name: Bahrain
+  long_name: Kingdom of Bahrain
+  alpha_2: BH
+  continent_alpha_2: AS
+- name: Bangladesh
+  long_name: People's Republic of Bangladesh
+  alpha_2: BD
+  continent_alpha_2: AS
+- name: Bhutan
+  long_name: Kingdom of Bhutan
+  alpha_2: BT
+  continent_alpha_2: AS
+- name: British Indian Ocean Territory (Chagos Archipelago)
+  long_name: British Indian Ocean Territory (Chagos Archipelago)
+  alpha_2: IO
+  continent_alpha_2: AS
+- name: Brunei Darussalam
+  long_name: Brunei Darussalam
+  alpha_2: BN
+  continent_alpha_2: AS
+- name: Cambodia
+  long_name: Kingdom of Cambodia
+  alpha_2: KH
+  continent_alpha_2: AS
+- name: China
+  long_name: People's Republic of China
+  alpha_2: CN
+  continent_alpha_2: AS
+- name: Christmas Island
+  long_name: Christmas Island
+  alpha_2: CX
+  continent_alpha_2: AS
+- name: Cocos (Keeling) Islands
+  long_name: Cocos (Keeling) Islands
+  alpha_2: CC
+  continent_alpha_2: AS
+- name: Cyprus
+  long_name: Republic of Cyprus
+  alpha_2: CY
+  continent_alpha_2: AS
+- name: Georgia
+  long_name: Georgia
+  alpha_2: GE
+  continent_alpha_2: AS
+- name: Hong Kong
+  long_name: Special Administrative Region of China Hong Kong
+  alpha_2: HK
+  continent_alpha_2: AS
+- name: India
+  long_name: Republic of India
+  alpha_2: IN
+  continent_alpha_2: AS
+- name: Indonesia
+  long_name: Republic of Indonesia
+  alpha_2: ID
+  continent_alpha_2: AS
+- name: Iran
+  long_name: Islamic Republic of Iran
+  alpha_2: IR
+  continent_alpha_2: AS
+- name: Iraq
+  long_name: Republic of Iraq
+  alpha_2: IQ
+  continent_alpha_2: AS
+- name: Iraq-Saudi Arabia Neutral Zone
+  long_name: Iraq-Saudi Arabia Neutral Zone
+  alpha_2: XE
+  continent_alpha_2: AS
+- name: Israel
+  long_name: State of Israel
+  alpha_2: IL
+  continent_alpha_2: AS
+- name: Japan
+  long_name: Japan
+  alpha_2: JP
+  continent_alpha_2: AS
+- name: Jordan
+  long_name: Hashemite Kingdom of Jordan
+  alpha_2: JO
+  continent_alpha_2: AS
+- name: Kazakhstan
+  long_name: Republic of Kazakhstan
+  alpha_2: KZ
+  continent_alpha_2: AS
+- name: Korea
+  long_name: Democratic People's Republic of Korea
+  alpha_2: KP
+  continent_alpha_2: AS
+- name: Korea
+  long_name: Republic of Korea
+  alpha_2: KR
+  continent_alpha_2: AS
+- name: Kuwait
+  long_name: State of Kuwait
+  alpha_2: KW
+  continent_alpha_2: AS
+- name: Kyrgyz Republic
+  long_name: Kyrgyz Republic
+  alpha_2: KG
+  continent_alpha_2: AS
+- name: Lao People's Democratic Republic
+  long_name: Lao People's Democratic Republic
+  alpha_2: LA
+  continent_alpha_2: AS
+- name: Lebanon
+  long_name: Lebanese Republic Lebanon
+  alpha_2: LB
+  continent_alpha_2: AS
+- name: Macao
+  long_name: Special Administrative Region of China Macao
+  alpha_2: MO
+  continent_alpha_2: AS
+- name: Malaysia
+  long_name: Malaysia
+  alpha_2: MY
+  continent_alpha_2: AS
+- name: Maldives
+  long_name: Republic of Maldives
+  alpha_2: MV
+  continent_alpha_2: AS
+- name: Mongolia
+  long_name: Mongolia
+  alpha_2: MN
+  continent_alpha_2: AS
+- name: Myanmar
+  long_name: Union of Myanmar
+  alpha_2: MM
+  continent_alpha_2: AS
+- name: Nepal
+  long_name: State of Nepal
+  alpha_2: NP
+  continent_alpha_2: AS
+- name: Oman
+  long_name: Sultanate of Oman
+  alpha_2: OM
+  continent_alpha_2: AS
+- name: Pakistan
+  long_name: Islamic Republic of Pakistan
+  alpha_2: PK
+  continent_alpha_2: AS
+- name: Palestinian Territory
+  long_name: Occupied Palestinian Territory
+  alpha_2: PS
+  continent_alpha_2: AS
+- name: Philippines
+  long_name: Republic of the Philippines
+  alpha_2: PH
+  continent_alpha_2: AS
+- name: Qatar
+  long_name: State of Qatar
+  alpha_2: QA
+  continent_alpha_2: AS
+- name: Russian Federation
+  long_name: Russian Federation
+  alpha_2: RU
+  continent_alpha_2: AS
+- name: Saudi Arabia
+  long_name: Kingdom of Saudi Arabia
+  alpha_2: SA
+  continent_alpha_2: AS
+- name: Singapore
+  long_name: Republic of Singapore
+  alpha_2: SG
+  continent_alpha_2: AS
+- name: Spratly Islands
+  long_name: Spratly Islands
+  alpha_2: XS
+  continent_alpha_2: AS
+- name: Sri Lanka
+  long_name: Democratic Socialist Republic of Sri Lanka
+  alpha_2: LK
+  continent_alpha_2: AS
+- name: Syrian Arab Republic
+  long_name: Syrian Arab Republic
+  alpha_2: SY
+  continent_alpha_2: AS
+- name: Taiwan
+  long_name: Taiwan
+  alpha_2: TW
+  continent_alpha_2: AS
+- name: Tajikistan
+  long_name: Republic of Tajikistan
+  alpha_2: TJ
+  continent_alpha_2: AS
+- name: Thailand
+  long_name: Kingdom of Thailand
+  alpha_2: TH
+  continent_alpha_2: AS
+- name: Timor-Leste
+  long_name: Democratic Republic of Timor-Leste
+  alpha_2: TL
+  continent_alpha_2: AS
+- name: Turkey
+  long_name: Republic of Turkey
+  alpha_2: TR
+  continent_alpha_2: AS
+- name: Turkmenistan
+  long_name: Turkmenistan
+  alpha_2: TM
+  continent_alpha_2: AS
+- name: United Arab Emirates
+  long_name: United Arab Emirates
+  alpha_2: AE
+  continent_alpha_2: AS
+- name: United Nations Neutral Zone
+  long_name: United Nations Neutral Zone
+  alpha_2: XD
+  continent_alpha_2: AS
+- name: Uzbekistan
+  long_name: Republic of Uzbekistan
+  alpha_2: UZ
+  continent_alpha_2: AS
+- name: Vietnam
+  long_name: Socialist Republic of Vietnam
+  alpha_2: VN
+  continent_alpha_2: AS
+- name: Yemen
+  long_name: Yemen
+  alpha_2: YE
+  continent_alpha_2: AS
+- name: Albania
+  long_name: Republic of Albania
+  alpha_2: AL
+  continent_alpha_2: EU
+- name: Andorra
+  long_name: Principality of Andorra
+  alpha_2: AD
+  continent_alpha_2: EU
+- name: Austria
+  long_name: Republic of Austria
+  alpha_2: AT
+  continent_alpha_2: EU
+- name: Belarus
+  long_name: Republic of Belarus
+  alpha_2: BY
+  continent_alpha_2: EU
+- name: Belgium
+  long_name: Kingdom of Belgium
+  alpha_2: BE
+  continent_alpha_2: EU
+- name: Bosnia and Herzegovina
+  long_name: Bosnia and Herzegovina
+  alpha_2: BA
+  continent_alpha_2: EU
+- name: Bulgaria
+  long_name: Republic of Bulgaria
+  alpha_2: BG
+  continent_alpha_2: EU
+- name: Croatia
+  long_name: Republic of Croatia
+  alpha_2: HR
+  continent_alpha_2: EU
+- name: Czech Republic
+  long_name: Czech Republic
+  alpha_2: CZ
+  continent_alpha_2: EU
+- name: Denmark
+  long_name: Kingdom of Denmark
+  alpha_2: DK
+  continent_alpha_2: EU
+- name: Estonia
+  long_name: Republic of Estonia
+  alpha_2: EE
+  continent_alpha_2: EU
+- name: Faroe Islands
+  long_name: Faroe Islands
+  alpha_2: FO
+  continent_alpha_2: EU
+- name: Finland
+  long_name: Republic of Finland
+  alpha_2: FI
+  continent_alpha_2: EU
+- name: France
+  long_name: French Republic France
+  alpha_2: FR
+  continent_alpha_2: EU
+- name: Germany
+  long_name: Federal Republic of Germany
+  alpha_2: DE
+  continent_alpha_2: EU
+- name: Gibraltar
+  long_name: Gibraltar
+  alpha_2: GI
+  continent_alpha_2: EU
+- name: Greece
+  long_name: Hellenic Republic Greece
+  alpha_2: GR
+  continent_alpha_2: EU
+- name: Guernsey
+  long_name: Bailiwick of Guernsey
+  alpha_2: GG
+  continent_alpha_2: EU
+- name: Holy See (Vatican City State)
+  long_name: Holy See (Vatican City State)
+  alpha_2: VA
+  continent_alpha_2: EU
+- name: Hungary
+  long_name: Republic of Hungary
+  alpha_2: HU
+  continent_alpha_2: EU
+- name: Iceland
+  long_name: Republic of Iceland
+  alpha_2: IS
+  continent_alpha_2: EU
+- name: Ireland
+  long_name: Ireland
+  alpha_2: IE
+  continent_alpha_2: EU
+- name: Isle of Man
+  long_name: Isle of Man
+  alpha_2: IM
+  continent_alpha_2: EU
+- name: Italy
+  long_name: Italian Republic Italy
+  alpha_2: IT
+  continent_alpha_2: EU
+- name: Jersey
+  long_name: Bailiwick of Jersey
+  alpha_2: JE
+  continent_alpha_2: EU
+- name: Latvia
+  long_name: Republic of Latvia
+  alpha_2: LV
+  continent_alpha_2: EU
+- name: Liechtenstein
+  long_name: Principality of Liechtenstein
+  alpha_2: LI
+  continent_alpha_2: EU
+- name: Lithuania
+  long_name: Republic of Lithuania
+  alpha_2: LT
+  continent_alpha_2: EU
+- name: Luxembourg
+  long_name: Grand Duchy of Luxembourg
+  alpha_2: LU
+  continent_alpha_2: EU
+- name: Macedonia
+  long_name: The Former Yugoslav Republic of Macedonia
+  alpha_2: MK
+  continent_alpha_2: EU
+- name: Malta
+  long_name: Republic of Malta
+  alpha_2: MT
+  continent_alpha_2: EU
+- name: Moldova
+  long_name: Republic of Moldova
+  alpha_2: MD
+  continent_alpha_2: EU
+- name: Monaco
+  long_name: Principality of Monaco
+  alpha_2: MC
+  continent_alpha_2: EU
+- name: Montenegro
+  long_name: Republic of Montenegro
+  alpha_2: ME
+  continent_alpha_2: EU
+- name: Netherlands
+  long_name: Kingdom of the Netherlands
+  alpha_2: NL
+  continent_alpha_2: EU
+- name: Norway
+  long_name: Kingdom of Norway
+  alpha_2: 'NO'
+  continent_alpha_2: EU
+- name: Poland
+  long_name: Republic of Poland
+  alpha_2: PL
+  continent_alpha_2: EU
+- name: Portugal
+  long_name: Portuguese Republic Portugal
+  alpha_2: PT
+  continent_alpha_2: EU
+- name: Romania
+  long_name: Romania
+  alpha_2: RO
+  continent_alpha_2: EU
+- name: San Marino
+  long_name: Republic of San Marino
+  alpha_2: SM
+  continent_alpha_2: EU
+- name: Serbia
+  long_name: Republic of Serbia
+  alpha_2: RS
+  continent_alpha_2: EU
+- name: Slovakia (Slovak Republic)
+  long_name: Slovakia (Slovak Republic)
+  alpha_2: SK
+  continent_alpha_2: EU
+- name: Slovenia
+  long_name: Republic of Slovenia
+  alpha_2: SI
+  continent_alpha_2: EU
+- name: Spain
+  long_name: Kingdom of Spain
+  alpha_2: ES
+  continent_alpha_2: EU
+- name: Svalbard & Jan Mayen Islands
+  long_name: Svalbard & Jan Mayen Islands
+  alpha_2: SJ
+  continent_alpha_2: EU
+- name: Sweden
+  long_name: Kingdom of Sweden
+  alpha_2: SE
+  continent_alpha_2: EU
+- name: Switzerland
+  long_name: Swiss Confederation Switzerland
+  alpha_2: CH
+  continent_alpha_2: EU
+- name: Ukraine
+  long_name: Ukraine
+  alpha_2: UA
+  continent_alpha_2: EU
+- name: United Kingdom of Great Britain & Northern Ireland
+  long_name: United Kingdom of Great Britain & Northern Ireland
+  alpha_2: GB
+  continent_alpha_2: EU
+- name: "Åland Islands"
+  long_name: "Åland Islands"
+  alpha_2: AX
+  continent_alpha_2: EU
+- name: Anguilla
+  long_name: Anguilla
+  alpha_2: AI
+  continent_alpha_2: NA
+- name: Antigua and Barbuda
+  long_name: Antigua and Barbuda
+  alpha_2: AG
+  continent_alpha_2: NA
+- name: Aruba
+  long_name: Aruba
+  alpha_2: AW
+  continent_alpha_2: NA
+- name: Bahamas
+  long_name: Commonwealth of the Bahamas
+  alpha_2: BS
+  continent_alpha_2: NA
+- name: Barbados
+  long_name: Barbados
+  alpha_2: BB
+  continent_alpha_2: NA
+- name: Belize
+  long_name: Belize
+  alpha_2: BZ
+  continent_alpha_2: NA
+- name: Bermuda
+  long_name: Bermuda
+  alpha_2: BM
+  continent_alpha_2: NA
+- name: Bonaire
+  long_name: Sint Eustatius and Saba Bonaire
+  alpha_2: BQ
+  continent_alpha_2: NA
+- name: British Virgin Islands
+  long_name: British Virgin Islands
+  alpha_2: VG
+  continent_alpha_2: NA
+- name: Canada
+  long_name: Canada
+  alpha_2: CA
+  continent_alpha_2: NA
+- name: Cayman Islands
+  long_name: Cayman Islands
+  alpha_2: KY
+  continent_alpha_2: NA
+- name: Costa Rica
+  long_name: Republic of Costa Rica
+  alpha_2: CR
+  continent_alpha_2: NA
+- name: Cuba
+  long_name: Republic of Cuba
+  alpha_2: CU
+  continent_alpha_2: NA
+- name: Curaçao
+  long_name: Curaçao
+  alpha_2: CW
+  continent_alpha_2: NA
+- name: Dominica
+  long_name: Commonwealth of Dominica
+  alpha_2: DM
+  continent_alpha_2: NA
+- name: Dominican Republic
+  long_name: Dominican Republic
+  alpha_2: DO
+  continent_alpha_2: NA
+- name: El Salvador
+  long_name: Republic of El Salvador
+  alpha_2: SV
+  continent_alpha_2: NA
+- name: Greenland
+  long_name: Greenland
+  alpha_2: GL
+  continent_alpha_2: NA
+- name: Grenada
+  long_name: Grenada
+  alpha_2: GD
+  continent_alpha_2: NA
+- name: Guadeloupe
+  long_name: Guadeloupe
+  alpha_2: GP
+  continent_alpha_2: NA
+- name: Guatemala
+  long_name: Republic of Guatemala
+  alpha_2: GT
+  continent_alpha_2: NA
+- name: Haiti
+  long_name: Republic of Haiti
+  alpha_2: HT
+  continent_alpha_2: NA
+- name: Honduras
+  long_name: Republic of Honduras
+  alpha_2: HN
+  continent_alpha_2: NA
+- name: Jamaica
+  long_name: Jamaica
+  alpha_2: JM
+  continent_alpha_2: NA
+- name: Martinique
+  long_name: Martinique
+  alpha_2: MQ
+  continent_alpha_2: NA
+- name: Mexico
+  long_name: United Mexican States Mexico
+  alpha_2: MX
+  continent_alpha_2: NA
+- name: Montserrat
+  long_name: Montserrat
+  alpha_2: MS
+  continent_alpha_2: NA
+- name: Netherlands Antilles
+  long_name: Netherlands Antilles
+  alpha_2: AN
+  continent_alpha_2: NA
+- name: Nicaragua
+  long_name: Republic of Nicaragua
+  alpha_2: NI
+  continent_alpha_2: NA
+- name: Panama
+  long_name: Republic of Panama
+  alpha_2: PA
+  continent_alpha_2: NA
+- name: Puerto Rico
+  long_name: Commonwealth of Puerto Rico
+  alpha_2: PR
+  continent_alpha_2: NA
+- name: Saint Barthelemy
+  long_name: Saint Barthelemy
+  alpha_2: BL
+  continent_alpha_2: NA
+- name: Saint Kitts and Nevis
+  long_name: Federation of Saint Kitts and Nevis
+  alpha_2: KN
+  continent_alpha_2: NA
+- name: Saint Lucia
+  long_name: Saint Lucia
+  alpha_2: LC
+  continent_alpha_2: NA
+- name: Saint Martin
+  long_name: Saint Martin
+  alpha_2: MF
+  continent_alpha_2: NA
+- name: Saint Pierre and Miquelon
+  long_name: Saint Pierre and Miquelon
+  alpha_2: PM
+  continent_alpha_2: NA
+- name: Saint Vincent and the Grenadines
+  long_name: Saint Vincent and the Grenadines
+  alpha_2: VC
+  continent_alpha_2: NA
+- name: Sint Maarten (Netherlands)
+  long_name: Sint Maarten (Netherlands)
+  alpha_2: SX
+  continent_alpha_2: NA
+- name: Trinidad and Tobago
+  long_name: Republic of Trinidad and Tobago
+  alpha_2: TT
+  continent_alpha_2: NA
+- name: Turks and Caicos Islands
+  long_name: Turks and Caicos Islands
+  alpha_2: TC
+  continent_alpha_2: NA
+- name: United States Virgin Islands
+  long_name: United States Virgin Islands
+  alpha_2: VI
+  continent_alpha_2: NA
+- name: United States of America
+  long_name: United States of America
+  alpha_2: US
+  continent_alpha_2: NA
+- name: American Samoa
+  long_name: American Samoa
+  alpha_2: AS
+  continent_alpha_2: OC
+- name: Australia
+  long_name: Commonwealth of Australia
+  alpha_2: AU
+  continent_alpha_2: OC
+- name: Cook Islands
+  long_name: Cook Islands
+  alpha_2: CK
+  continent_alpha_2: OC
+- name: Disputed Territory
+  long_name: Disputed Territory
+  alpha_2: XX
+  continent_alpha_2: OC
+- name: Fiji
+  long_name: Republic of the Fiji Islands Fiji
+  alpha_2: FJ
+  continent_alpha_2: OC
+- name: French Polynesia
+  long_name: French Polynesia
+  alpha_2: PF
+  continent_alpha_2: OC
+- name: Guam
+  long_name: Guam
+  alpha_2: GU
+  continent_alpha_2: OC
+- name: Kiribati
+  long_name: Republic of Kiribati
+  alpha_2: KI
+  continent_alpha_2: OC
+- name: Marshall Islands
+  long_name: Republic of the Marshall Islands
+  alpha_2: MH
+  continent_alpha_2: OC
+- name: Micronesia
+  long_name: Federated States of Micronesia
+  alpha_2: FM
+  continent_alpha_2: OC
+- name: Nauru
+  long_name: Republic of Nauru
+  alpha_2: NR
+  continent_alpha_2: OC
+- name: New Caledonia
+  long_name: New Caledonia
+  alpha_2: NC
+  continent_alpha_2: OC
+- name: New Zealand
+  long_name: New Zealand
+  alpha_2: NZ
+  continent_alpha_2: OC
+- name: Niue
+  long_name: Niue
+  alpha_2: NU
+  continent_alpha_2: OC
+- name: Norfolk Island
+  long_name: Norfolk Island
+  alpha_2: NF
+  continent_alpha_2: OC
+- name: Northern Mariana Islands
+  long_name: Commonwealth of the Northern Mariana Islands
+  alpha_2: MP
+  continent_alpha_2: OC
+- name: Palau
+  long_name: Republic of Palau
+  alpha_2: PW
+  continent_alpha_2: OC
+- name: Papua New Guinea
+  long_name: Independent State of Papua New Guinea
+  alpha_2: PG
+  continent_alpha_2: OC
+- name: Pitcairn Islands
+  long_name: Pitcairn Islands
+  alpha_2: PN
+  continent_alpha_2: OC
+- name: Samoa
+  long_name: Independent State of Samoa
+  alpha_2: WS
+  continent_alpha_2: OC
+- name: Solomon Islands
+  long_name: Solomon Islands
+  alpha_2: SB
+  continent_alpha_2: OC
+- name: Tokelau
+  long_name: Tokelau
+  alpha_2: TK
+  continent_alpha_2: OC
+- name: Tonga
+  long_name: Kingdom of Tonga
+  alpha_2: TO
+  continent_alpha_2: OC
+- name: Tuvalu
+  long_name: Tuvalu
+  alpha_2: TV
+  continent_alpha_2: OC
+- name: United States Minor Outlying Islands
+  long_name: United States Minor Outlying Islands
+  alpha_2: UM
+  continent_alpha_2: OC
+- name: Vanuatu
+  long_name: Republic of Vanuatu
+  alpha_2: VU
+  continent_alpha_2: OC
+- name: Wallis and Futuna
+  long_name: Wallis and Futuna
+  alpha_2: WF
+  continent_alpha_2: OC
+- name: Argentina
+  long_name: Argentine Republic Argentina
+  alpha_2: AR
+  continent_alpha_2: SA
+- name: Bolivia
+  long_name: Republic of Bolivia
+  alpha_2: BO
+  continent_alpha_2: SA
+- name: Brazil
+  long_name: Federative Republic of Brazil
+  alpha_2: BR
+  continent_alpha_2: SA
+- name: Chile
+  long_name: Republic of Chile
+  alpha_2: CL
+  continent_alpha_2: SA
+- name: Colombia
+  long_name: Republic of Colombia
+  alpha_2: CO
+  continent_alpha_2: SA
+- name: Ecuador
+  long_name: Republic of Ecuador
+  alpha_2: EC
+  continent_alpha_2: SA
+- name: Falkland Islands (Malvinas)
+  long_name: Falkland Islands (Malvinas)
+  alpha_2: FK
+  continent_alpha_2: SA
+- name: French Guiana
+  long_name: French Guiana
+  alpha_2: GF
+  continent_alpha_2: SA
+- name: Guyana
+  long_name: Co-operative Republic of Guyana
+  alpha_2: GY
+  continent_alpha_2: SA
+- name: Paraguay
+  long_name: Republic of Paraguay
+  alpha_2: PY
+  continent_alpha_2: SA
+- name: Peru
+  long_name: Republic of Peru
+  alpha_2: PE
+  continent_alpha_2: SA
+- name: Suriname
+  long_name: Republic of Suriname
+  alpha_2: SR
+  continent_alpha_2: SA
+- name: Uruguay
+  long_name: Eastern Republic of Uruguay
+  alpha_2: UY
+  continent_alpha_2: SA
+- name: Venezuela
+  long_name: Bolivarian Republic of Venezuela
+  alpha_2: VE
+  continent_alpha_2: SA
