@@ -1,31 +1,43 @@
 # Widgeo
 
-TODO: Write a gem description
+Widgeo provides easy access to the worlds territories and their continents.
 
-## Installation
+## Using Widgeo
 
-Add this line to your application's Gemfile:
+Include Widgeo in your Gemfile, `gem "widgeo", require: true` and run `bundle install`.
 
-```ruby
-gem 'widgeo'
-```
+#### #all
 
-And then execute:
+Provides a list of all items.
 
-    $ bundle
+For a list of continents:
 
-Or install it yourself as:
+`continents = Widgeo::Continent.all`
 
-    $ gem install widgeo
+and all territories:
 
-## Usage
+`territories = Widgeo::Territory.all`
 
-TODO: Write usage instructions here
+#### #find_by
 
-## Contributing
+Provides a single item matching a specified property and value.
 
-1. Fork it ( https://github.com/[my-github-username]/widgeo/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+To find a continent by code:
+
+`continent = Continent.find_by :alpha_2, "EU"`
+
+To find a territory by name:
+
+`continent = Territory.find_by :name, "France"`
+
+#### Accessing Properties
+
+All properties of an item are accessible via a getter.
+
+Continents respond to `#name` and `#alpha_2`.
+
+Territories respond to `#name`, `#long_name`, `#alpha_2`, `#continent_alpha_2`, `#continent`. Continent provides an instance of the parent Continent.
+
+#### Tests
+
+The gem is tested with Rspec. You can run the tests with `bundle exec rake spec`.
